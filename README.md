@@ -1,29 +1,26 @@
 # ioa-model
 
+Ormv.js库数据库模型封装
+
 ### Install
 
 ```
 npm install @ioa/model
 ```
 
-### 默认配置 
+### 环境变量配置文件示例
 
 ```js
-{
-   "default": {
-      "dialect": "postgres",
-      "host": "localhost",
-      "port": 5432
+module.exports = {
+   "@apps": {
+      "app": {
+         "host": "localhost",
+         "port": 5432,
+         "database": "test",
+         "username": "postgres",
+         "password": "postgres",
+         "logger": true
+      },
    }
-}
-```
-
-### 开启控制台sql日志
-
-```js
-{
-   "localhost": {
-      "logging": true
-   },
 }
 ```
