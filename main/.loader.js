@@ -1,7 +1,5 @@
 'use strict';
 
-const { config } = require('ioa/loader');
+const { options } = require('@app');
 
-module.exports = {
-   config
-}
+module.exports = options;
