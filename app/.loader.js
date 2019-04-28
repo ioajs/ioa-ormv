@@ -2,7 +2,7 @@
 
 const component = require('@app');
 
-component.setOption({
+component.setLevels({
    "model": {
       "level": 20,
    },

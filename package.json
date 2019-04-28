@@ -1,9 +1,9 @@
 {
    "name": "@ioa/model",
-   "version": "6.3.1",
+   "version": "7.0.0-alpha.1",
    "description": "Ormv.js库数据库模型封装",
    "dependencies": {
-      "ioa": "^6.3.1",
+      "ioa": "^7.0.0-alpha.2",
       "ormv": "^0.3.1-alpha.0"
    },
    "files": [
