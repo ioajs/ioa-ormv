@@ -1,13 +1,13 @@
 {
    "name": "@ioa/model",
-   "version": "7.0.0-alpha.3",
+   "version": "8.0.1",
    "description": "Ormv.js库数据库模型封装",
    "dependencies": {
-      "ioa": "^7.0.0-alpha.5",
-      "ormv": "^0.3.1-alpha.0"
+      "ioa": "^8.0.1",
+      "ormv": "^0.3.1-alpha.1"
    },
    "files": [
-      "app",
-      "!app/node_modules"
+      "lib",
+      "!lib/node_modules"
    ]
 }
