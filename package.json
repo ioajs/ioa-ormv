@@ -4,7 +4,7 @@
    "description": "Ormv.js库数据库模型封装",
    "dependencies": {
       "ioa": "^9.0.1",
-      "ormv": "^0.6.0"
+      "ormv": "^0.7.0"
    },
    "files": [
       "lib",
