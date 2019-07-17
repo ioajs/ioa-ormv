@@ -12,8 +12,8 @@ npm install @ioa/model
 
 ```js
 module.exports = {
-   "@apps": {
-      "app": {
+   "components": {
+      "@ioa/model": {
          "host": "localhost",
          "port": 5432,
          "database": "test",
