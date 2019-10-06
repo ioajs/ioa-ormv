@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-   "./lib/": {
+   "lib": {
       "host": "localhost",
       "port": 5432,
       "database": "test",
