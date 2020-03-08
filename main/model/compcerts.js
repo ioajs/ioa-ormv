@@ -1,7 +1,5 @@
 'use strict';
 
-const { Ormv, ormv } = require('@app');
-
-const { STRING, INTEGER, JSONB, BIGINT } = Ormv.Type;
+const { ormv } = require('@app');
 
 module.exports = {}
