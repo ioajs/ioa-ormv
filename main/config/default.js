@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+   "xxx": 666,
    "lib": {
       "host": "localhost",
       "port": 5532,
