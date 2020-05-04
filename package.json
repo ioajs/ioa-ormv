@@ -1,6 +1,6 @@
 {
    "name": "@ioa/ormv",
-   "version": "9.8.0",
+   "version": "9.8.1",
    "description": "Ormv.js库数据库模型封装",
    "dependencies": {
       "ormv": "^2.2.1"
