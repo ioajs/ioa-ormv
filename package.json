@@ -3,11 +3,13 @@
    "version": "9.8.1",
    "description": "Ormv.js库数据库模型封装",
    "dependencies": {
-      "ormv": "^2.2.1"
+      "ormv": "^2.2.2"
    },
-   "files": ["lib"],
+   "files": [
+      "lib"
+   ],
    "devDependencies": {
       "@ioa/config": "^9.5.0",
-      "ioa": "^9.8.1"
+      "ioa": "^9.8.4"
    }
 }
